@@ -26,5 +26,5 @@ public class recursion {
     // }
     }
 
-    //Author:Abhishek
+    //Author:Abhishek Chaudhary
 } 
